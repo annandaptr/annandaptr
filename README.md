@@ -2,22 +2,26 @@
 
 # Welcome to my GitHub Profile!
 
-<img src="https://raw.githubusercontent.com/annandaptr/annandaptr/main/Madoka sig.jpg" width="600px"/>
+<img src="https://raw.githubusercontent.com/annandaptr/annandaptr/main/Madoka%20sig.jpg" width="600px"/>
 
 </div>
 
-<table align="center" border="0" cellspacing="0" cellpadding="0">
+<br/>
+
+<table align="center" border="0" cellspacing="0" cellpadding="20">
   <tr>
-    <td align="center" width="200">
-      <img src="https://media.tenor.com/XMUlAmIJ-woAAAAj/anime-madoka-magica.gif" width="160px"/>
+    <td valign="center" width="350">
+      <h3> About Me</h3>
+      <pre>
+School    : Vocational High School,
+            Software Engineering
+Learning  : Flutter & Node.js
+Interest  : Web Design &
+            Digital Drawing
+      </pre>
     </td>
-    <td align="center" width="400">
-      <h3>💻 Tech Stack</h3>
-      <img src="https://skillicons.dev/icons?i=js,dart,php,html&perline=4" />
-      <br/>
-      <img src="https://skillicons.dev/icons?i=flutter,react,express,nodejs&perline=4" />
-      <br/>
-      <img src="https://skillicons.dev/icons?i=tailwind,mysql,linux,vscode&perline=4" />
+    <td align="center" valign="center" width="200">
+      <img src="https://media.tenor.com/XMUlAmIJ-woAAAAj/anime-madoka-magica.gif" width="160px"/>
     </td>
   </tr>
 </table>
@@ -25,6 +29,16 @@
 ---
 
 <div align="center">
+
+## 💻 Tech Stack
+
+<img src="https://skillicons.dev/icons?i=js,dart,php,html&perline=4" />
+<br/>
+<img src="https://skillicons.dev/icons?i=flutter,react,express,nodejs&perline=4" />
+<br/>
+<img src="https://skillicons.dev/icons?i=tailwind,mysql,linux,vscode&perline=4" />
+
+---
 
 ## 📊 GitHub Statistics
 
