@@ -1,16 +1,30 @@
 <div align="center">
 
-# Welcome to my GitHub Profile! 
+# Welcome to my GitHub Profile!
 
-<img src="https://media.tenor.com/XMUlAmIJ-woAAAAj/anime-madoka-magica.gif" width="120px"/>
+<img src="https://raw.githubusercontent.com/annandaptr/annandaptr/main/Madoka sig.jpg" width="600px"/>
+
+</div>
+
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center" width="200">
+      <img src="https://media.tenor.com/XMUlAmIJ-woAAAAj/anime-madoka-magica.gif" width="160px"/>
+    </td>
+    <td align="center" width="400">
+      <h3>💻 Tech Stack</h3>
+      <img src="https://skillicons.dev/icons?i=js,dart,php,html&perline=4" />
+      <br/>
+      <img src="https://skillicons.dev/icons?i=flutter,react,express,nodejs&perline=4" />
+      <br/>
+      <img src="https://skillicons.dev/icons?i=tailwind,mysql,linux,vscode&perline=4" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 💻 Tech Stack
-
-<img src="https://skillicons.dev/icons?i=js,dart,php,html,flutter,react,express,nodejs,tailwind,mysql,linux,vscode&perline=6" />
-
----
+<div align="center">
 
 ## 📊 GitHub Statistics
 
