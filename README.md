@@ -27,9 +27,6 @@
 
 <table align="center" border="0" cellspacing="0" cellpadding="20">
   <tr>
-    <td align="center" valign="center" width="250">
-      <img src="https://raw.githubusercontent.com/annandaptr/annandaptr/main/img/ascii.png" width="220px"/>
-    </td>
     <td align="center" valign="center" width="350">
       <h3>💻 Tech Stack</h3>
       <img src="https://skillicons.dev/icons?i=js,dart,php,html&perline=4" />
@@ -38,15 +35,20 @@
       <br/>
       <img src="https://skillicons.dev/icons?i=tailwind,mysql,linux,vscode&perline=4" />
     </td>
+    <td align="center" valign="center" width="250">
+      <img src="https://raw.githubusercontent.com/annandaptr/annandaptr/main/img/ascii.png" width="220px"/>
+    </td>
   </tr>
 </table>
 
 ---
 
-<img src="https://raw.githubusercontent.com/annandaptr/annandaptr/main/img/certificate.jpeg" width="500px"/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/annandaptr/annandaptr/main/img/certificate.jpeg" width="500px"/>
+</div>
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=annandaptr&color=E991C8&style=for-the-badge&label=PROFILE+VIEWS" />
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=annandaptr&color=E991C8&style=for-the-badge&label=PROFILE+VIEWS" />
 </div>
