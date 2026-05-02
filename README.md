@@ -51,4 +51,9 @@ Interest  : Web Design &
 
 <img src="https://komarev.com/ghpvc/?username=annandaptr&color=E991C8&style=for-the-badge&label=PROFILE+VIEWS" />
 
+<p align="center">
+  <img src="certificate.jpeg" width="400">
+  <br>
+</p>
+
 </div>
