@@ -14,7 +14,6 @@
       <h3>✦ About Me</h3>
       hey! i'm ananda <br/>
       a vocational high school student majoring in software engineering ⊂((・▽・))⊃<br/>
-      
       currently learning flutter & node.js !<br/>
       interested in web design & digital drawing (｡•̀ᴗ-)✧<br/>
     </td>
