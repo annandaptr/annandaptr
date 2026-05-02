@@ -11,7 +11,7 @@
 <table align="center" border="0" cellspacing="0" cellpadding="20">
   <tr>
     <td valign="center" width="350">
-      <h3>✦ About Me</h3>
+      <h3>🚀 About Me</h3>
       hey! i'm ananda <br/>
       a vocational high school student majoring in software engineering ⊂((・▽・))⊃<br/>
       currently learning flutter & node.js !<br/>
