@@ -12,8 +12,9 @@
   <tr>
     <td valign="center" width="350">
       <h3>✦ About Me</h3>
-      hey! i'm ananda ><br/>
+      hey! i'm ananda <br/>
       a vocational high school student majoring in software engineering ⊂((・▽・))⊃<br/>
+      
       currently learning flutter & node.js !<br/>
       interested in web design & digital drawing (｡•̀ᴗ-)✧<br/>
     </td>
@@ -43,7 +44,7 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/annandaptr/annandaptr/main/img/certificate.png" width="500px"/>
+<img src="https://raw.githubusercontent.com/annandaptr/annandaptr/main/img/certificate.jpeg" width="500px"/>
 
 ---
 
