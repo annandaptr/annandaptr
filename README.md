@@ -25,11 +25,6 @@
 
 ---
 
-<table align="center" border="0" cellspacing="0" cellpadding="20">
-  <tr>
-    <td align="center" valign="center" width="250">
-      <img src="https://raw.githubusercontent.com/annandaptr/annandaptr/main/img/Ascii.png" width="220px"/>
-    </td>
     <td align="center" valign="center" width="350">
       <h3>💻 Tech Stack</h3>
       <img src="https://skillicons.dev/icons?i=js,dart,php,html&perline=4" />
@@ -40,6 +35,12 @@
     </td>
   </tr>
 </table>
+
+<table align="center" border="0" cellspacing="0" cellpadding="20">
+  <tr>
+    <td align="center" valign="center" width="250">
+      <img src="https://raw.githubusercontent.com/annandaptr/annandaptr/main/img/ascii.png" width="220px"/>
+    </td>
 
 ---
 
