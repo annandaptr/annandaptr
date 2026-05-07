@@ -42,6 +42,12 @@ me.say_hi()
 
 ---
 
+## 🎖️Award
+
+ <img src="https://raw.githubusercontent.com/annandaptr/annandaptr/main/img/certificate.jpeg" width="5000x"/>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -52,13 +58,10 @@ me.say_hi()
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annandaptr&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+
 ---
 
-## 🎖️Award
 
- <img src="https://raw.githubusercontent.com/annandaptr/annandaptr/main/img/certificate.jpeg" width="5000x"/>
-
- ---
 
 ## 🐍 Contribution Snake
 
