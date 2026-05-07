@@ -30,6 +30,7 @@ me.say_hi()
 </p>
 
 ---
+
 ## 🖥️ Tech Stack
 
 <p align="center">
@@ -38,6 +39,7 @@ me.say_hi()
   <img src="https://img.shields.io/badge/VSCode-Intermediate-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-Intermediate-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
+
 ---
 
 ## 📊 GitHub Stats
@@ -51,6 +53,12 @@ me.say_hi()
 </p>
 
 ---
+
+##🎖️Award
+
+ <img src="https://raw.githubusercontent.com/annandaptr/annandaptr/main/img/certificate.png" width="5000x"/
+
+ ---
 
 ## 🐍 Contribution Snake
 
