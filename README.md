@@ -26,7 +26,7 @@ me.say_hi()
 ```
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/annandaptr/annandaptr/main/img/Aris.jpg" width="300"/>
+  <img src="https://raw.githubusercontent.com/annandaptr/annandaptr/main/img/Aris.jpg" width="500"/>
 </p>
 
 ---
