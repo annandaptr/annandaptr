@@ -31,6 +31,8 @@ me.say_hi()
 
 ---
 
+<div align="center">
+
 ## 🖥️ Tech Stack
 
 **🎨 Frontend**
