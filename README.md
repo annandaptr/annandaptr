@@ -26,35 +26,18 @@ me.say_hi()
 ```
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/annandaptr/annandaptr/main/img/Aris.jpg" width="500"/>
+  <img src="https://raw.githubusercontent.com/annandaptr/annandaptr/main/img/Aris.jpg" width="600"/>
 </p>
 
 ---
-
-<div align="center">
-
 ## 🖥️ Tech Stack
 
-**🎨 Frontend**
-<p>
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,tailwind" />
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-Intermediate-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/VSCode-Intermediate-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-Intermediate-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
-
-**📱 Mobile**
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart" />
-</p>
-
-**⚙️ Backend**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php" />
-</p>
-
-**🛠️ Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,linux,git,mysql,figma" />
-</p>
-
 ---
 
 ## 📊 GitHub Stats
