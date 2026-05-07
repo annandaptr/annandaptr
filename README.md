@@ -56,7 +56,7 @@ me.say_hi()
 
 ## 🎖️Award
 
- <img src="https://raw.githubusercontent.com/annandaptr/annandaptr/main/img/certificate.png" width="5000x"/>
+ <img src="https://raw.githubusercontent.com/annandaptr/annandaptr/main/img/certificate.jpeg" width="5000x"/>
 
  ---
 
