@@ -1,54 +1,63 @@
 <div align="center">
 
-# Welcome to my GitHub Profile!
 
-<img src="https://raw.githubusercontent.com/annandaptr/annandaptr/main/img/banner.jpg" width="600px"/>
 
-</div>
+![Welcome SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=4A90D9&center=true&width=600&lines=Welcome+to+my+GitHub+Profile!+)
 
-<br/>
 
-<table align="center" border="0" cellspacing="0" cellpadding="20">
-  <tr>
-    <td valign="center" width="350">
-      <h3>🎀 About Me</h3>
-      hey! i'm ananda <br/>
-      a vocational high school student majoring in software engineering ⊂((・▽・))⊃<br/>
-      currently learning flutter & node.js !<br/>
-      interested in web design & digital drawing (｡•̀ᴗ-)✧<br/>
-    </td>
-    <td align="center" valign="center" width="200">
-      <img src="https://media.tenor.com/XMUlAmIJ-woAAAAj/anime-madoka-magica.gif" width="160px"/>
-    </td>
-  </tr>
-</table>
 
----
+<img src="https://media1.tenor.com/m/_9xdjWZOmgcAAAAd/anime.gif" width="200"/>
 
-<table align="center" border="0" cellspacing="0" cellpadding="20">
-  <tr>
-    <td align="center" valign="center" width="350">
-      <h3>💻 Tech Stack</h3>
-      <img src="https://skillicons.dev/icons?i=js,dart,php,html&perline=4" />
-      <br/>
-      <img src="https://skillicons.dev/icons?i=flutter,react,express,nodejs&perline=4" />
-      <br/>
-      <img src="https://skillicons.dev/icons?i=tailwind,mysql,linux,vscode&perline=4" />
-    </td>
-    <td align="center" valign="center" width="250">
-      <img src="https://raw.githubusercontent.com/annandaptr/annandaptr/main/img/ascii.png" width="220px"/>
-    </td>
-  </tr>
-</table>
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/annandaptr/annandaptr/main/img/certificate.jpeg" width="500px"/>
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=annandaptr&color=E991C8&style=for-the-badge&label=PROFILE+VIEWS" />
-</div>
+## 🚀 About Me
+
+class Ananda:
+    def __init__(self):
+        self.name        = "Ananda"
+        self.pronouns    = "she/her"
+        self.location    = "Bandung, West Java, Indonesia"
+        self.interests   = ["Flutter", "Node.js", "Web Design", "Digital Drawing"]
+        self.personality = "( ･▽･)"
+
+    def current_focus(self):
+        return {
+            "learning"   : "Flutter & Node.js", 
+
+    def say_hi(self):
+        print("haiii :3 thanks for visiting! let's build something together")
+
+me = Ananda()
+me.say_hi()
+
+---
+
+## 🖥️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,flutter,dart,nodejs,express,php,html,css,react,tailwind,mysql,vscode,linux,git" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=annandaptr&show_icons=true&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=annandaptr&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annandaptr&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/annandaptr/annandaptr/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
