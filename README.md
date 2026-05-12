@@ -26,9 +26,7 @@ me.say_hi()
 ```
 ---
 
-## 🎖️Award
-
- <img src="https://raw.githubusercontent.com/annandaptr/annandaptr/main/img/certificate.jpeg" width="5000x"/>
+ <img src="https://raw.githubusercontent.com/annandaptr/annandaptr/main/img/Aris.jpg" width="6000x"/>
 
 ---
 
