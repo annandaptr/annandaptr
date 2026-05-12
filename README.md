@@ -26,13 +26,6 @@ me.say_hi()
 ```
 ---
 
-## Connect with me
-
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1503578159768014979)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/annandaptr__)
-
----
-
 ## 🎖️Award
 
  <img src="https://raw.githubusercontent.com/annandaptr/annandaptr/main/img/certificate.jpeg" width="5000x"/>
@@ -47,6 +40,13 @@ me.say_hi()
   <img src="https://img.shields.io/badge/VSCode-Intermediate-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-Intermediate-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
+
+---
+
+## 🔗Connect with me
+
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1503578159768014979)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/annandaptr__)
 
 ---
 
