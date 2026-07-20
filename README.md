@@ -2,7 +2,7 @@
 
 ![Welcome SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=4A90D9&center=true&width=600&lines=Welcome+to+my+GitHub+Profile!+)
 
-<img src="https://media1.tenor.com/m/_9xdjWZOmgcAAAAd/anime.gif" width="200"/>
+<img src="https://tenor.com/view/omgkawaiiangel-kangel-k-angel-nso-ngo-gif-3257102732845369261" width="200"/>
 
 </div>
 
