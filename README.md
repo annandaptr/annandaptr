@@ -33,7 +33,7 @@ wondering why my code stopped working ✦
 
 ---
 
-## Tech Stack
+## tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,python,github,linux,arch&perline=8" />
@@ -59,7 +59,7 @@ wondering why my code stopped working ✦
 
 ---
 
-## Connect with me
+## connect with me
 
 <div align="center">
 
