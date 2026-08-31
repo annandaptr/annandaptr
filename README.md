@@ -58,13 +58,6 @@ wondering why my code stopped working ✦
 <img src="https://media1.tenor.com/m/4IxeylxIepEAAAAd/kangel-ame-chan.gif" width="300"/>
 
 ---
-
-## connect with me
-
-<div align="center">
-
-[![Discord](https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1503578159768014979) [![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/annnvrse) [![Facebook](https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/annanda.ptr2) [![TikTok](https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@northnveil)
-
 </div>
 
 <p align="center">
